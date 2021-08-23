@@ -1,6 +1,10 @@
 .fulled-container {
   padding: 0 20px;
 }
+.fulled-container {
+  width: 1440px;
+  margin: 0 auto;
+}
 
 .container {
   width: 1200px;
